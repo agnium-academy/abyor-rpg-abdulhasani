@@ -1,0 +1,9 @@
+/*
+*Ini cerita coding gueh, mana cerita coding luh ???.
+*
+*/
+	public class CeritaSatu{
+		private name;
+		private umur;
+		private alamat;
+	}
