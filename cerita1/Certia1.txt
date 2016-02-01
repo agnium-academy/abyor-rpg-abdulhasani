@@ -3,7 +3,7 @@
 *
 */
 	public class CeritaSatu{
-		private name;
-		private umur;
-		private alamat;
+		private String name;
+		private Integer umur;
+		private String alamat;
 	}
